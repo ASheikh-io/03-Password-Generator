@@ -27,12 +27,6 @@ For this assignment we were asked to meet the following criteria:
 ## Getting Started
 To run the program please visit the [Password Generator](https://asheikh-io.github.io/03-Password-Generator/) page.
 
-Examples of Program in Use
-Password Generator Not Working Working With Some Checks Working With All Checks
 
-Notes
-I initially was going to use one letter array and .toUpperCase, however, when I used this it gave me the same letter. Because of this I used two separate arrays
-I opted to split a string into an array for readability
-
-Authors
-Ahmed Sheikh - complete work - ASheikh-io
+## Authors
+- **Ahmed Sheikh** - _complete work_ - [ASheikh-io](https://github.com/ASheikh-io)
