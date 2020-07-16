@@ -1,5 +1,4 @@
 // Assignment Code
-<<<<<<< HEAD
 var generateBtn = document.querySelector("#generate");
 
 // Write password to the #password input
@@ -13,7 +12,6 @@ function writePassword() {
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
-=======
 const generateBtn = document.querySelector("#generate");
 
  // Add event listener to button and calling function
@@ -100,4 +98,3 @@ function passwordDecisions() {
   // Writes new password to the #password input
   passwordText.value = finalPassword;
 }
->>>>>>> d65ebb2362e162bc90f6623bee906ff603a1a251

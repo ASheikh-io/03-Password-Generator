@@ -14,32 +14,23 @@ body,
 
 body {
   font-family: sans-serif;
-<<<<<<< HEAD
   background-color: #f9fbfd;
-=======
   background-color: #7ab0e6;
->>>>>>> d65ebb2362e162bc90f6623bee906ff603a1a251
 }
 
 .wrapper {
   padding-top: 30px;
   padding-left: 20px;
   padding-right: 20px;
-<<<<<<< HEAD
-=======
   color: rgb(10, 10, 95);
->>>>>>> d65ebb2362e162bc90f6623bee906ff603a1a251
 }
 
 header {
   text-align: center;
   padding: 20px;
   padding-top: 0px;
-<<<<<<< HEAD
   color: hsl(206, 17%, 28%);
-=======
   color: whitesmoke;
->>>>>>> d65ebb2362e162bc90f6623bee906ff603a1a251
 }
 
 .card {
@@ -47,11 +38,8 @@ header {
   border-radius: 5px;
   border-width: 1px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
-<<<<<<< HEAD
   color: hsl(206, 17%, 28%);
-=======
   color: hsl(206, 11%, 39%);
->>>>>>> d65ebb2362e162bc90f6623bee906ff603a1a251
   font-size: 18px;
   margin: 0 auto;
   max-width: 800px;
@@ -133,7 +121,6 @@ button[disabled] {
   resize: none;
   overflow: hidden;
 }
-<<<<<<< HEAD
 
 @media (max-width: 690px) {
   .btn {
@@ -152,5 +139,3 @@ button[disabled] {
     font-size: 0.8rem;
   }
 }
-=======
->>>>>>> d65ebb2362e162bc90f6623bee906ff603a1a251
